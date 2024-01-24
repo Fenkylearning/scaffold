@@ -1,6 +1,8 @@
-def add(x, y):
-    return x + y
+def toyou(x):
+    return f"hi {x}"
 
-#var=
+def add(x):
+    return x + 1
 
-print(f"This is the sum: 1, 2, {add(1,2)}")
+def subtract(x):
+    return x - 1
